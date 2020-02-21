@@ -1,0 +1,10 @@
+theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - index.md
+
+title: sacred fixpoint
+author.name: sammecs
